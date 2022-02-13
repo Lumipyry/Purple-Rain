@@ -11,4 +11,4 @@ Here with Lightly application style, Spectrum Malice Plasma style and Manasarova
 
 ![PurpleRain3](https://user-images.githubusercontent.com/73434605/153747941-691de853-15f7-4b80-851e-e2baadc7cfef.png)
 
-![PurpleRain4](https://user-images.githubusercontent.com/73434605/153747942-d4a0df79-f51a-4ab1-9d46-5d7cacba5fc6.png)
+![PurpleRain4](https://user-images.githubusercontent.com/73434605/153748826-5fb23046-2482-4472-8d19-063d0751b5b2.png)
