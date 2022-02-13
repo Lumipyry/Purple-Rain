@@ -5,7 +5,7 @@ KDE Plasma väriteema
 
 In honour of song and album Purple Rain by Prince
 
-Here with Lightly application style, Spectrum Malice Plasma style and Manasarovar icons. Clementine player with forced 90 % opaque.
+In images with: Lightly application style, Spectrum Malice Plasma style Manasarovar icons and Clementine player with forced 90 % opaque.
 
 ![PurpleRain](https://user-images.githubusercontent.com/73434605/153747895-d01e12e3-0d89-45c5-b1af-2df052345c5f.png)
 
