@@ -1,5 +1,5 @@
 # Purple-Rain
-KDE Plasma väriteema
+KDE Plasma väriteema - KDE Plasma colour scheme
 
 In honour of song and album Purple Rain by Prince
 
