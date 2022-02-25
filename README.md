@@ -3,6 +3,8 @@ KDE Plasma väriteema - Thème de coulour pour KDE Plasma - KDE Plasma colour sc
 
 Hyvin tumma purppura - Very dark purple
 
+Terveisiä Alberto ja Carlos Claramuntille Kurikasta!
+
 In honour of song and album Purple Rain by Prince
 
 In images with: Lightly application style, Spectrum Malice Plasma style, Manasarovar icons and Clementine player forced to be 90 % opaque.
